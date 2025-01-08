@@ -2,6 +2,7 @@
   "name": "sample-porfolio",
   "type": "module",
   "version": "0.0.1",
+  "packageManager": "pnpm@7.12.1",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
