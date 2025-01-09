@@ -4,13 +4,14 @@
     "label": "Senior Data Scientist & AI/ML Full-stack developer",
     "image": "/portfolio/me_avatar.jpg",
     "email": "hanyue1006@hotmail.com",
-    "phone": "",
-    "url": "https://github.com/RavenMuse/portfolio",
+    "phone": "+1 555-555-5555",
+    "url": "https://johndoe.dev",
     "summary": "I'm a seasoned tech professional with over 10 years of experience in data science, AI/ML, and full-stack software development. As a former Senior Data Scientist and Software Architect at Dmall, I gained extensive hands-on experience in machine learning, big data analytics, and LLM technologies. I’ve successfully led the development of complex systems, including recommendation systems, user operation systems, public opinion monitoring, supply chain optimization, and AI data assistants. Currently, I'm advancing cutting-edge research in LLM and CV algorithms at a research institute affiliated with Tsinghua University.",
     "theme": "red",
     "location": {
       "address": "",
       "postalCode": "10001",
+
       "city": "Chengdu",
       "countryCode": "CN",
       "region": "China"
@@ -18,18 +19,18 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "RavenMuse",
-        "url": "https://linkedin.com/in/RavenMuse"
+        "username": "john-doe",
+        "url": "https://linkedin.com/in/john-doe"
       },
       {
         "network": "X",
-        "username": "RavenMuse",
-        "url": "https://x.com/StoneBox2"
+        "username": "john-doe",
+        "url": "https://x.com/john-doe"
       },
       {
         "network": "GitHub",
         "username": "johndoe",
-        "url": "https://github.com/RavenMuse"
+        "url": "https://github.com/johndoe"
       }
     ]
   },
@@ -88,12 +89,11 @@
       ]
     },
     {
-      "name": "Kingdee",
+      "name": "Web Agency",
       "position": "Intern Web Developer",
       "location_type": "Remote",
       "location": "Sydney, Australia",
-      "url": "https://en.kingdee.com/",
-      "startDate": "2014-07-01",
+      "startDate": "2022-06-01",
       "endDate": "2022-12-01",
       "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
       "highlights": [
@@ -105,7 +105,33 @@
       ]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Local Coding Club",
+      "position": "Volunteer",
+      "url": "https://codingclub.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Helped organize coding workshops and mentored new members.",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
   "education": [    
+    {
+      "institution": "City College",
+      "url": "https://citycollege.edu",
+      "area": "Information Technology",
+      "studyType": "Associate Degree",
+      "startDate": "2017-01-01",
+      "endDate": "2019-12-01",
+      "score": "3.7",
+      "courses": [
+        "IT101 - Networking Fundamentals",
+        "IT102 - Database Management Systems"
+      ]
+    },
     {
       "institution": "Nanjing University",
       "url": "https://stateuniversity.edu",
@@ -116,10 +142,16 @@
     }
   ],
   "certificates": [
+    {
+      "name": "Full Stack Web Development",
+      "date": "2023-05-01",
+      "issuer": "Online University",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    }
   ],
   "skills": [
     {
-      "name": "Python",
+      "name": "Figma",
       "level": "Expert",
       "keywords": [
         "Design",
@@ -127,45 +159,7 @@
       ]
     },
     {
-      "name": "Jupyter",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Pytorch",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "Llama",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "Huggingface",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Langchain",
+      "name": "Gitlab",
       "level": "Intermediate",
       "keywords": [
         "Version Control",
@@ -174,79 +168,7 @@
       ]
     },
     {
-      "name": "Sklearn",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    
-    {
-      "name": "Scipy",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Fastapi",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Flask",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Pydantic",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Vue",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "PostgreSQL",
+      "name": "HTML",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
@@ -254,7 +176,7 @@
       ]
     },
     {
-      "name": "Git",
+      "name": "CSS",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
@@ -263,7 +185,7 @@
       ]
     },
     {
-      "name": "Uv",
+      "name": "JavaScript",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
@@ -273,7 +195,56 @@
       ]
     },
     {
-      "name": "Docker",
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
       "level": "Intermediate",
       "keywords": [
         "Version Control",
@@ -283,7 +254,7 @@
       ]
     },
     {
-      "name": "Spark",
+      "name": "Next.js",
       "level": "Beginner",
       "keywords": [
         "Web Development",
@@ -294,27 +265,7 @@
       ]
     },
     {
-      "name": "Iceberg",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Doris",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Figma",
+      "name": "React",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
