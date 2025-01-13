@@ -6,7 +6,7 @@
     "email": "hanyue1006@hotmail.com",
     "phone": "",
     "url": "https://github.com/RavenMuse/portfolio",
-    "summary": "I'm a seasoned tech professional with over 10 years of experience in data science, AI/ML, and full-stack software development. As a former Senior Data Scientist and Software Architect at Dmall, I gained extensive hands-on experience in machine learning, big data analytics, and LLM technologies. I’ve successfully led the development of complex systems, including recommendation systems, user operation systems, public opinion monitoring, supply chain optimization, and AI data assistants. Currently, I'm advancing cutting-edge research in LLM and CV algorithms at a research institute affiliated with Tsinghua University.",
+    "summary": "I'm a seasoned tech professional with over 10 years of experience in data science, AI/ML full-stack software development. As a former Senior Data Scientist and Software Architect at Dmall, I gained extensive hands-on experience in machine learning, big data analytics, and LLM technologies. I’ve successfully led the development of complex systems, including recommendation systems, user operation systems, public opinion monitoring, supply chain optimization, and AI data assistants. Currently, I'm advancing cutting-edge research in LLM and CV algorithms at a research institute affiliated with Tsinghua University.",
     "theme": "red",
     "location": {
       "address": "",
@@ -35,77 +35,111 @@
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "SC-EIRI",
+      "position": "Senior Technical Manager",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "location": "Chengdu, China",
+      "url": "https://en.tsinghua-eiri.org/",
+      "startDate": "2024-01-20",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Responsible for research energy construction intelligence projects undertaken by the Institute for SOEs, including project declaration, demand communication, technical solutions, outsourcing, R&D management, algorithm application, reporting and acceptance, and landing of some academic achievements.",
       "highlights": [
         "Improved website performance by optimizing code"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Build R&D platform and operation and maintenance from scratch, including internal and external network, AI server, security components, CI/CD environment, and standardized project R&D process.",
+        "Propose the productization plan of project results, undertake demand refinement, competitive research, product design, etc..",
+        "Responsible for algorithm application research and development, training or fine-tuning of large language model and CV algorithms, such as Llama3, ChatGLM3, YOLOv11, Depth Anything, etc., combined with AR technology to empower intelligent construction."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "AI+AR engineering assistant project of a survey institute of the Electric Power Construction Group reaches the delivery of the first phase of the project.",
+        "Completes the prototype and PRD of the product, designs the AR device + end-side CV service + cloud large model service technical solution.",
+        "Improves the interaction capability through voice recognition + LLM FC in UnityAR application, realizes the functions of user logging in, AR scanning, engineering BIM virtual and real overlay, target detection, depth estimation and size measurement functions."
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "Figma",
+        "Python",
+        "Jupyter",
+        "Pytorch",
+        "Fastapi",
+        "Pydantic",
+        "Llama",
+        "Langchain",
+        "PostgreSQL",
+        "Huggingface"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
+      "name": "Dmall",
+      "position": "Senior Data Scientist",
+      "location_type": "On site",
+      "location": "Chengdu, China",
+      "url": "https://emea.dmall.com/#/",
+      "startDate": "2016-05-10",
+      "endDate": "2024-01-17",
       "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Lead the exploration of BI+AI application, responsible for AI data assistant project, practicing cutting-edge AIGC technology, responsible for BI Agent design, RAG framework design and development.",
+        "Responsible for Retail Intelligent Operation and Data Innovation Project, in which leading the completion of category plan optimisation, inventory optimisation, merchandise anomaly analysis, user lifecycle prediction, and promotional merchandise order forecast; ",
+        "Responsible for Recommendation System and Public Opinion System; participated in the design and development of Big Data Screen, Retail Data Portrait, and APP Evaluation Text Analysis at an early stage;",
+        "Involved in data platform architecture and improvement, data warehouse design, data indicator dynamic early warning programme design, data project technical solution support;"
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Apply AI capability to data BI, replace part of the data analysis, and help non-BI personnel to get data analysis results quickly.",
+        "Lead a 3-member team to improve the accuracy of retail user and product operation based on data algorithms.",
+        "Solve category empirical management errors; solve supply chain inventory miscalculation by integrating complex business scenarios; discover business negligence through negative gross profit attribution;",
+        "Improve 6 recommendation scenarios, optimize 2 high-exposure scenarios, and improve the conversion rate by 8%; complete the research and development of the public opinion system from 0 to 1, and Solved the needs for insight, notification, and handling of retail public opinion;",
+        "Complete architecture to maintain the stability of the data platform, reconstruct the dim and dws layer data warehouses, warn business KPI anomalies with the help of probabilistic models, and complete the support of 7 data BI project solutions. "
       ],
       "skills": [
         "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "Jupyter",
+        "Pytorch",
+        "Fastapi",
+        "Llama",
+        "Langchain",
+        "Vue",
+        "TypeScript",
+        "Sklearn",
+        "Scipy",
+        "Spark",
+        "Iceberg",
+        "Doris"
       ]
     },
     {
       "name": "Kingdee",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
+      "position": "Intermediate Data Engineer",
+      "location_type": "On site",
+      "location": "Shenzhen, China",
       "url": "https://en.kingdee.com/",
       "startDate": "2014-07-01",
-      "endDate": "2022-12-01",
+      "endDate": "2016-05-01",
       "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
       "highlights": [
         "Completed several client projects successfully"
       ],
+      "responsibilities": [
+        "Responsible for big data cluster architecture design, cluster optimization, leading task scheduling platform development, data development technology training.",
+        "Participate in some of the data warehouse design.",
+        "Participate in product operation data product development."
+      ],
+      "achievements": [
+        "Build and maintain the data platform base components (hadoop, hive, spark, zk, kafka, redis)",
+        "Complete the design and development of the task scheduling platform, to help platform users to better manage data tasks",
+        "Complete the construction of 20 data warehouse tables, including some DIM, DWD, ADS tables.",
+        "Carrying out big data ecosystem training, explaining Spark high-performance data computing technology, and helping data research and development personnel to carry out big data transformation."
+      ],
       "skills": [
-        "HTML",
-        "CSS"
+        "Spark",
+        "Hadoop"
       ]
     }
   ],
-  "education": [    
+  "education": [
     {
       "institution": "Nanjing University",
       "url": "https://stateuniversity.edu",
@@ -115,213 +149,99 @@
       "endDate": "2014-06-01"
     }
   ],
-  "certificates": [
-  ],
+  "certificates": [],
   "skills": [
     {
       "name": "Python",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
+      "level": "Expert"
     },
     {
       "name": "Jupyter",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
+      "level": "Expert"
     },
     {
       "name": "Pytorch",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
+      "level": "Intermediate"
     },
     {
       "name": "Llama",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
+      "level": "Intermediate"
     },
     {
       "name": "Huggingface",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
+      "level": "Intermediate"
     },
     {
       "name": "Langchain",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "level": "Intermediate"
     },
     {
       "name": "Sklearn",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "level": "Intermediate"
     },
-    
     {
       "name": "Scipy",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "level": "Intermediate"
     },
     {
       "name": "Fastapi",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
+      "level": "Expert"
     },
     {
       "name": "Flask",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
+      "level": "Expert"
     },
     {
       "name": "Pydantic",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "level": "Intermediate"
     },
     {
       "name": "Vue",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
+      "level": "Expert"
     },
     {
       "name": "TypeScript",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
+      "level": "Expert"
     },
     {
       "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "level": "Intermediate"
     },
     {
       "name": "PostgreSQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
+      "level": "Intermediate"
     },
     {
       "name": "Git",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
+      "level": "Intermediate"
     },
     {
       "name": "Uv",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "level": "Intermediate"
     },
     {
       "name": "Docker",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
+      "level": "Intermediate"
+    },
+    {
+      "name": "Hadoop",
+      "level": "Intermediate"
     },
     {
       "name": "Spark",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
+      "level": "Expert"
     },
     {
       "name": "Iceberg",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "level": "Intermediate"
     },
     {
       "name": "Doris",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "level": "Intermediate"
     },
     {
       "name": "Figma",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "level": "Intermediate"
     }
   ],
   "languages": [

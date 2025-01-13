@@ -1,8 +1,8 @@
 ---
 import { skills } from "@cv";
 import Section from "../Section.astro";
-import Python from "@/icons/python.astro"
-import Jupyter from "@/icons/jupyter.astro"
+import Python from "@/icons/python.astro";
+import Jupyter from "@/icons/jupyter.astro";
 import Fastapi from "@/icons/fastapi.astro";
 import Flask from "@/icons/flask.astro";
 import Pydantic from "@/icons/pydantic.astro";
@@ -15,7 +15,6 @@ import PostgreSQL from "@/icons/postgresql.astro";
 import Git from "@/icons/git.astro";
 import Uv from "@/icons/uv.astro";
 
-
 import Pytorch from "@/icons/pytorch.astro";
 import Sklearn from "@/icons/sklearn.astro";
 import Scipy from "@/icons/scipy.astro";
@@ -23,18 +22,19 @@ import Llama from "@/icons/llama.astro";
 import Huggingface from "@/icons/huggingface.astro";
 import Langchain from "@/icons/langchain.astro";
 
-
 import Docker from "@/icons/docker.astro";
 import Spark from "@/icons/spark.astro";
 import Iceberg from "@/icons/iceberg.astro";
 import Doris from "@/icons/doris.astro";
 import Figma from "@/icons/Figma.astro";
+import Hadoop from "@/icons/hadoop.astro";
 
 const SKILLS_ICONS: Record<string, any> = {
 	Python,
 	Scipy,
 	Pydantic,
 	Vue,
+	Hadoop,
 	Pytorch,
 	TypeScript,
 	Fastapi,
@@ -57,7 +57,9 @@ const SKILLS_ICONS: Record<string, any> = {
 ---
 
 <Section className={Astro.props.className} title="Skills">
-	<ul class="[&>li>svg]:text-skin-hue inline-flex flex-wrap gap-6 [&>li>svg]:size-5 [&>li]:text-sm">
+	<ul
+		class="inline-flex flex-wrap gap-6 [&>li>svg]:size-5 [&>li>svg]:text-skin-hue [&>li]:text-sm"
+	>
 		{
 			skills.map(({ name }) => {
 				const iconName = name === "Next.js" ? "Next" : name;
