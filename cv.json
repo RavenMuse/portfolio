@@ -22,13 +22,18 @@
         "url": "https://linkedin.com/in/RavenMuse"
       },
       {
+        "network": "Facebook",
+        "username": "RavenMuse",
+        "url": "https://www.facebook.com/profile.php?id=61566180404752"
+      },
+      {
         "network": "X",
         "username": "RavenMuse",
         "url": "https://x.com/StoneBox2"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
+        "username": "RavenMuse",
         "url": "https://github.com/RavenMuse"
       }
     ]
