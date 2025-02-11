@@ -19,7 +19,7 @@
       {
         "network": "LinkedIn",
         "username": "RavenMuse",
-        "url": "https://linkedin.com/in/RavenMuse"
+        "url": "https://www.linkedin.com/in/ravenmuse"
       },
       {
         "network": "Facebook",
@@ -47,19 +47,19 @@
       "url": "https://en.tsinghua-eiri.org/",
       "startDate": "2024-01-20",
       "endDate": null,
-      "summary": "Responsible for research energy construction intelligence projects undertaken by the Institute for SOEs, including project declaration, demand communication, technical solutions, outsourcing, R&D management, algorithm application, reporting and acceptance, and landing of some academic achievements.",
+      "summary": "As the project leader for intelligent energy construction projects and research, I'm involved in the entire project workflow, including project application, requirements communication, technical solutions, outsourcing, R&D management, algorithm application development, reporting and acceptance, as well as academic paper writing.",
       "highlights": [
         "Improved website performance by optimizing code"
       ],
       "responsibilities": [
         "Build R&D platform and operation and maintenance from scratch, including internal and external network, AI server, security components, CI/CD environment, and standardized project R&D process.",
-        "Propose the productization plan of project results, undertake demand refinement, competitive research, product design, etc..",
-        "Responsible for algorithm application research and development, training or fine-tuning of large language model and CV algorithms, such as Llama3, ChatGLM3, YOLOv11, Depth Anything, etc., combined with AR technology to empower intelligent construction."
+        "Propose the productization plan of project results, undertake requirements refinement, competitive research, product design, etc..",
+        "Responsible for algorithm application research and development, training or fine-tuning of large language model and CV algorithms, such as Llama3, ChatGLM3, YOLOv11, Depth Anything, SAM, etc., combined with AR technology to empower intelligent construction."
       ],
       "achievements": [
         "AI+AR engineering assistant project of a survey institute of the Electric Power Construction Group reaches the delivery of the first phase of the project.",
         "Completes the prototype and PRD of the product, designs the AR device + end-side CV service + cloud large model service technical solution.",
-        "Improves the interaction capability through voice recognition + LLM FC in UnityAR application, realizes the functions of user logging in, AR scanning, engineering BIM virtual and real overlay, target detection, depth estimation and size measurement functions."
+        "Improves the interaction capability through ASR + LLM FC in UnityAR application, realizes the functions of user logging in, AR scanning, engineering BIM virtual and real overlay, target detection, depth estimation and size measurement functions."
       ],
       "skills": [
         "Figma",
@@ -82,21 +82,21 @@
       "url": "https://emea.dmall.com/#/",
       "startDate": "2016-05-10",
       "endDate": "2024-01-17",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "summary": "Head of retail intelligent operation and data innovation projects, leading the implementation of AI data assistant, category plan optimization decision-making, inventory optimization decision-making, anomaly attribution analysis, user lifecycle prediction, and unit volume prediction for big promotion; responsible for recommendation system and public opinion system; participated in the research and development of data screen, retail data portrait, and Dmall APP evaluation text analytics design at an early stage.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
       "responsibilities": [
         "Lead the exploration of BI+AI application, responsible for AI data assistant project, practicing cutting-edge AIGC technology, responsible for BI Agent design, RAG framework design and development.",
-        "Responsible for Retail Intelligent Operation and Data Innovation Project, in which leading the completion of category plan optimisation, inventory optimisation, merchandise anomaly analysis, user lifecycle prediction, and promotional merchandise order forecast; ",
-        "Responsible for Recommendation System and Public Opinion System; participated in the design and development of Big Data Screen, Retail Data Portrait, and APP Evaluation Text Analysis at an early stage;",
-        "Involved in data platform architecture and improvement, data warehouse design, data indicator dynamic early warning programme design, data project technical solution support;"
+        "Responsible for Retail Intelligent Operation and Data Innovation Project, in which leading the completion of category plan optimisation, inventory optimisation, merchandise anomaly analysis, user lifecycle prediction, and promotional merchandise order forecast.",
+        "Responsible for Recommendation System and Public Opinion System; participated in the design and development of Big Data Screen, Retail Data Portrait, and APP Evaluation Text Analysis at an early stage.",
+        "Involved in data platform architecture and improvement, data warehouse design, data indicator dynamic early warning programme design, data project technical solution support."
       ],
       "achievements": [
         "Apply AI capability to data BI, replace part of the data analysis, and help non-BI personnel to get data analysis results quickly.",
         "Lead a 3-member team to improve the accuracy of retail user and product operation based on data algorithms.",
-        "Solve category empirical management errors; solve supply chain inventory miscalculation by integrating complex business scenarios; discover business negligence through negative gross profit attribution;",
-        "Improve 6 recommendation scenarios, optimize 2 high-exposure scenarios, and improve the conversion rate by 8%; complete the research and development of the public opinion system from 0 to 1, and Solved the needs for insight, notification, and handling of retail public opinion;",
+        "Solve category empirical management errors; solve supply chain inventory miscalculation by integrating complex business scenarios; discover business negligence through negative gross profit attribution.",
+        "Improve 6 recommendation scenarios, optimize 2 high-exposure scenarios, and improve the conversion rate by 8%; complete the research and development of the public opinion system from 0 to 1, and Solved the needs for insight, notification, and handling of retail public opinion.",
         "Complete architecture to maintain the stability of the data platform, reconstruct the dim and dws layer data warehouses, warn business KPI anomalies with the help of probabilistic models, and complete the support of 7 data BI project solutions. "
       ],
       "skills": [
@@ -123,7 +123,7 @@
       "url": "https://en.kingdee.com/",
       "startDate": "2014-07-01",
       "endDate": "2016-05-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "summary": "Lead big data cluster architecture design, cluster optimization, participate in task scheduling platform development, data development technology training; participate in part of the data warehouse design and operation data product development.",
       "highlights": [
         "Completed several client projects successfully"
       ],
@@ -136,7 +136,7 @@
         "Build and maintain the data platform base components (hadoop, hive, spark, zk, kafka, redis)",
         "Complete the design and development of the task scheduling platform, to help platform users to better manage data tasks",
         "Complete the construction of 20 data warehouse tables, including some DIM, DWD, ADS tables.",
-        "Carrying out big data ecosystem training, explaining Spark high-performance data computing technology, and helping data research and development personnel to carry out big data transformation."
+        "Organization of big data ecosystem training, explaining Spark high-performance data computing technology, and helping data research and development personnel to carry out big data transformation."
       ],
       "skills": [
         "Spark",
