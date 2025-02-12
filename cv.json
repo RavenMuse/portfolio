@@ -82,7 +82,7 @@
       "url": "https://emea.dmall.com/#/",
       "startDate": "2016-05-10",
       "endDate": "2024-01-17",
-      "summary": "Head of retail intelligent operation and data innovation projects, leading the implementation of AI data assistant, category plan optimization decision-making, inventory optimization decision-making, anomaly attribution analysis, user lifecycle prediction, and unit volume prediction for big promotion; responsible for recommendation system and public opinion system; participated in the research and development of data screen, retail data portrait, and Dmall APP evaluation text analytics design at an early stage.",
+      "summary": "Head of retail intelligent operation and data innovation projects, led the team to explore and realize data intelligence projects using AI, machine learning and other algorithmic engineering techniques, and participated in the construction of data warehouse and data platform and some data BI product development in the early stage.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
@@ -123,22 +123,27 @@
       "url": "https://en.kingdee.com/",
       "startDate": "2014-07-01",
       "endDate": "2016-05-01",
-      "summary": "Lead big data cluster architecture design, cluster optimization, participate in task scheduling platform development, data development technology training; participate in part of the data warehouse design and operation data product development.",
+      "summary": "As a newcomer to the team, I learned data technology on his own and proposed to utilize big data technology to improve the efficiency of data processing; contributed to the data architecture solution for the team and participated in the whole process of developing the data platform.",
       "highlights": [
         "Completed several client projects successfully"
       ],
       "responsibilities": [
-        "Responsible for big data cluster architecture design, cluster optimization, leading task scheduling platform development, data development technology training.",
-        "Participate in some of the data warehouse design.",
+        "Responsible for big data cluster architecture design, cluster optimization, participate in task scheduling platform development, data development technology training.",
+        "Participate in some of the data warehouse design and development.",
         "Participate in product operation data product development."
       ],
       "achievements": [
         "Build and maintain the data platform base components (hadoop, hive, spark, zk, kafka, redis)",
-        "Complete the design and development of the task scheduling platform, to help platform users to better manage data tasks",
+        "Complete the design and development of the task scheduling platform for ETL, to help platform users to better manage data tasks",
         "Complete the construction of 20 data warehouse tables, including some DIM, DWD, ADS tables.",
         "Organization of big data ecosystem training, explaining Spark high-performance data computing technology, and helping data research and development personnel to carry out big data transformation."
       ],
       "skills": [
+        "Zookeeper",
+        "Kafaka",
+        "Redis",
+        "SQL",
+        "Java",
         "Spark",
         "Hadoop"
       ]
@@ -276,18 +281,16 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "name": "AR/AI Engineering Assistant",
+      "isActive": true,
+      "description": "Empower engineering management, design, and supervision personnel with AI and digital twin technology during the construction process to control, analyze, and analyze the full cycle of engineering construction.",
       "highlights": [
         "Built with React and Tailwind CSS",
         "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      ]
     },
     {
-      "name": "Weather App",
+      "name": "AI Data Assistant",
       "isActive": true,
       "description": "A web application that provides weather information for any location.",
       "highlights": [
