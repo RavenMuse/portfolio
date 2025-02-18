@@ -289,7 +289,9 @@
         "Fine-tuning YOLOv11 using engineering Image Dataset",
         "Design AR application prototype and PRD",
         "Develop algorithm service for AR application"
-      ]
+      ],
+      "url": "",
+      "github": ""
     },
     {
       "name": "AI Data Assistant",
@@ -299,7 +301,9 @@
         "Design BI Agent and RAG framework",
         "Experiment with suitable open source LLM for BI Agent",
         "Develop application service combining LLM and big data technology"
-      ]
+      ],
+      "url": "",
+      "github": ""
     },
     {
       "name": "Recommendation System",
@@ -309,7 +313,9 @@
         "Design recall, ranking, and re-ranking algorithms for recommendation scenarios",
         "Develop and optimize key algorithms, such as item-based collaborative filtering, FPGrowth, and MIND model",
         "Led the team to develop system, incuding data collection, model training, and online service"
-      ]
+      ],
+      "url": "",
+      "github": ""
     },
     {
       "name": "Public Opinion System",
@@ -321,7 +327,9 @@
         "Develop text clustering and topic modeling algorithms using distributed computing technology",
         "Develop font-end web pages",
         "Led the team to develop the system, including data crawlers, backend service"
-      ]
+      ],
+      "url": "",
+      "github": ""
     }
   ]
 }
