@@ -52,13 +52,13 @@
         "Improved website performance by optimizing code"
       ],
       "responsibilities": [
-        "Build R&D platform and operation and maintenance from scratch, including internal and external network, AI server, security components, CI/CD environment, and standardized project R&D process.",
+        "Build R&D platform and operation and maintenance from scratch, including network components, AI server, security components, CI/CD environment, and standardized project R&D process.",
         "Propose the productization plan of project results, undertake requirements refinement, competitive research, product design, etc..",
-        "Responsible for algorithm application research and development, training or fine-tuning of large language model and CV algorithms, such as Llama3, ChatGLM3, YOLOv11, Depth Anything, SAM, etc., combined with AR technology to empower intelligent construction."
+        "Responsible for algorithm application research and development, training or fine-tuning of large language model and CV algorithms, such as Llama3, DeepSeek-R1, YOLOv11, Depth Anything, SAM, etc., combined with AR technology to empower intelligent construction."
       ],
       "achievements": [
         "AI+AR engineering assistant project of a survey institute of the Electric Power Construction Group reaches the delivery of the first phase of the project.",
-        "Completes the prototype and PRD of the product, designs the AR device + end-side CV service + cloud large model service technical solution.",
+        "Completes the prototype and PRD, designs the AR device + end-side CV service + cloud large model service technical solution.",
         "Improves the interaction capability through ASR + LLM FC in UnityAR application, realizes the functions of user logging in, AR scanning, engineering BIM virtual and real overlay, target detection, depth estimation and size measurement functions."
       ],
       "skills": [
@@ -282,43 +282,46 @@
   "projects": [
     {
       "name": "AR/AI Engineering Assistant",
-      "isActive": true,
-      "description": "Empower engineering management, design, and supervision personnel with AI and digital twin technology during the construction process to control, analyze, and analyze the full cycle of engineering construction.",
+      "isActive": false,
+      "description": "An Android AR application for engineering construction, which uses AI and digital twin technology to help engineering manager, designer, and supervision personnel to control and analyze the entire construction cycle.",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "Distilling Qwen using DeepSeek-R1",
+        "Fine-tuning YOLOv11 using engineering Image Dataset",
+        "Design AR application prototype and PRD",
+        "Develop algorithm service for AR application"
       ]
     },
     {
       "name": "AI Data Assistant",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "A web data analysis application that uses AI to generate SQL to help retail data analysts complete basic big data analysis through natural language interaction.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+        "Design BI Agent and RAG framework",
+        "Experiment with suitable open source LLM for BI Agent",
+        "Develop application service combining LLM and big data technology"
+      ]
+    },
+    {
+      "name": "Recommendation System",
+      "isActive": false,
+      "description": "An algorithm system that provides personalized product recommendation services for the Dmall APP homepage, product category page, detail page, shopping cart, and activity page.",
+      "highlights": [
+        "Design recall, ranking, and re-ranking algorithms for recommendation scenarios",
+        "Develop and optimize key algorithms, such as item-based collaborative filtering, FPGrowth, and MIND model",
+        "Led the team to develop system, incuding data collection, model training, and online service"
+      ]
+    },
+    {
+      "name": "Public Opinion System",
+      "isActive": false,
+      "description": "A web application for collecting, analyzing, monitoring and pushing public opinions in the retail industry to Dmall and retailers.",
+      "highlights": [
+        "Design web application prototype",
+        "Train ALBERT model for sentiment analysis",
+        "Develop text clustering and topic modeling algorithms using distributed computing technology",
+        "Develop font-end web pages",
+        "Led the team to develop the system, including data crawlers, backend service"
+      ]
     }
   ]
 }
